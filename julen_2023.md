@@ -4,3 +4,4 @@
 - Slik
 - Penge
 - Rowley Jefferson Journal
+- Kram fra farba
